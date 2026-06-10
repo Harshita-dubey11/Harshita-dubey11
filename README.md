@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshita Dubey</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 💬 Ask me about **• C++ • Data Structures & Algorithms • Node.js • Git & GitHub**
+- 💬 Ask me about **• C++ • Data Structures & Algorithms • Git & GitHub**
+- i am currently working and learning** mern **
 
 - 📫 How to reach me **1harshitadubey@gmail.com**
 
