@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshita Dubey</h1>
-<h3 align="center">A passionate mern stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 - 💬 Ask me about **• C++ • Data Structures & Algorithms • Node.js • Git & GitHub**
 
