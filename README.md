@@ -2,7 +2,8 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 - 💬 Ask me about **• C++ • Data Structures & Algorithms • Git & GitHub**
--I’m currently learning React Native, Full-Stack Development, and Generative AI.
+- 🌱 I’m currently learning React Native, Full-Stack Development, and Generative AI.
+
 
 - 📫 How to reach me **1harshitadubey@gmail.com**
 
