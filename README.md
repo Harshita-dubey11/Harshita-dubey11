@@ -15,27 +15,8 @@
 ---
 
 # 👩‍💻 About Me
+---
 
-```cpp
-class HarshitaDubey {
-
-public:
-
-    string education = "Computer Science Student";
-
-    vector<string> interests = {
-        "Full Stack Development",
-        "Data Structures & Algorithms",
-        "Artificial Intelligence",
-        "Backend Development"
-    };
-
-    string currentFocus = "Building scalable web applications";
-
-    string motto = "Code. Learn. Build. Repeat.";
-
-};
-```
 
 - 🎓 Computer Science Student
 - 💻 Passionate about Full Stack Development
